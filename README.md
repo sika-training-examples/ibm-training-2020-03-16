@@ -102,3 +102,9 @@ Also, feel free to propose improvements by creating issues.
   - Log Collection
   - Log Management (reading logs)
   - Alerts base on logs
+
+## Training Repositories
+
+- Docker Training - https://github.com/ondrejsika/docker-training
+- Kubernetes Training - https://github.com/ondrejsika/kubernetes-training
+- Gitlab CI Training - https://github.com/ondrejsika/gitlab-ci-training
