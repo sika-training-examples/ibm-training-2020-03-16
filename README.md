@@ -1,3 +1,5 @@
+[Ondrej Sika (sika.io)](https://sika.io) | <ondrej@sika.io>
+
 # IBM Training 2020-03-16: Docker, Kubernetes, Gitlab CI
 
     2020 Ondrej Sika <ondrej@ondrejsika.com>
