@@ -4,6 +4,26 @@
     https://github.com/ondrejsika/ibm-training-2020-03-16
 
 
+## Questions?
+
+Write me an email to <ondrej@sika.io>
+
+
+## About Me - Ondrej Sika
+
+__DevOps Engineer, Consultant & Lecturer__
+
+Mainly focused on Git, Gitlab, Gitlab CI, Docker, Kubernetes, Terraform, Prometheus, ELK / EFK
+
+## Star, Create Issues, Fork, and Contribute
+
+Feel free to star or fork this and related repositories.
+
+If you find a bug, create an issue or pull request.
+
+Also, feel free to propose improvements by creating issues.
+
+
 ## Agenda
 
 ### 1. Day
